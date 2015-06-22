@@ -1,0 +1,122 @@
+
+
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+	
+.mix{display:none;}
+.header_row{
+  margin-top: 96px;
+}
+
+.single_part img{
+height: 213px;
+margin-left: 27px;
+padding-bottom: 30px;
+padding-right: 20px;
+width: 232px;
+}
+.mypic figure{
+margin-top: -126px;
+}
+.mypic img{
+	 padding-left:0px;
+
+}
+.myfigcaption{
+margin-top: -188px;
+}
+.myfigcaption h1 li{
+float: right;
+margin-right: -211px;
+}
+#ceo_area{
+margin-top: -66px;
+}
+.single_ajy p{
+  font-size: 18px;
+  font-family: robot;
+}
+.details_service_row{
+  padding-bottom: 85px;
+}
+.single_clientfeedbak p{
+font-size: 20px;
+}
+.leader_row p{
+font-size: 18px;
+
+}
+.single_leader{
+margin-top: 20px;
+}
+.single_pricepacking.active{
+	background-color:#FF4848
+}
+	
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+.single_ajy p{
+  font-size: 18px;
+  font-family: robot;
+}
+.details_service_row{
+  padding-bottom: 85px;
+}
+.single_pricepacking.active{
+	background-color:#FF4848
+}
+	
+}
+
+
+
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+.mix{display:none;}
+
+.ajy_row h1{
+  font-size: 58px;
+}
+.single_ajy p{
+  font-size: 18px;
+  font-family: robot;
+}
+.single_rdnumber{
+  margin-top: 45px;
+  text-align: center;
+}
+.details_service_row{
+  padding-bottom: 85px;
+}
+.leader_row p{
+font-size: 18px;
+
+}
+.single_pricepacking{
+  margin-top: 25px;
+}
+.single_pricepacking.active{
+	background-color:#FF4848
+}
+
+}
+
+
+/*	Retina media query.
+	Overrides styles for devices with a 
+	device-pixel-ratio of 2+, such as iPhone 4.
+-----------------------------------------------    */
+
+@media 
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (min-device-pixel-ratio: 2) {
+	
+
+	
+}
